@@ -8,6 +8,7 @@ public class GithupYingxueApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GithupYingxueApplication.class, args);
+        System.out.println("*********************** GithupYingxueApplication start success *****************************");
     }
 
 }
